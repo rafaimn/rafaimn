@@ -17,10 +17,7 @@
 <a href="https://www.instagram.com/rafaimn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"<div align="center">
 </div>
   
-  ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
+   
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -34,8 +31,8 @@
 
 ### Studying in this moment:
 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;  
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
 
