@@ -8,7 +8,7 @@
 </div>
 
 
-[![rafaimn github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaimn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafaimn&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
